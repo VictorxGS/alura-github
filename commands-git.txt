@@ -1,0 +1,20 @@
+COMANDOS GIT
+==========================================================
+git init: comando utilizado para inicializa um repositório (utilizado quando deseja-se criar um repositório do zero)
+
+git status: comando que exibe informações relativas ao git, como arqvuios alterdos, aqruivos a commitar...
+
+git add: comando que adiciona os arquivos  no monitoramento do git que posteriormente serão comitados.
+
+git commit -m: comando para enviar um comite para o servidor, sendo necessário e obrigatório um mensagem descritiva.
+
+git log: comando que exibe o histórico de commits.
+
+git clone: comando utilizado para copiar um repositório já existente.
+
+git remote: comando que lista os servidores disponiveis.
+
+git git push (servidor) (branch): comando que consolida o envio para um servidor local ou remoto.
+
+git git pull (servidor) (branch): comando para receber as atualizações de um servidor local ou remoto.
+
