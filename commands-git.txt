@@ -2,7 +2,7 @@ COMANDOS GIT
 ==========================================================
 git init: comando utilizado para inicializa um repositório (utilizado quando deseja-se criar um repositório do zero)
 
-git status: comando que exibe informações relativas ao git, como arqvuios alterdos, aqruivos a commitar...
+git status: comando que exibe informações relativas ao git, como arqvuios alterdos, aqruivos a commitar entre outras infos.
 
 git add: comando que adiciona os arquivos  no monitoramento do git que posteriormente serão comitados.
 
@@ -18,3 +18,8 @@ git git push (servidor) (branch): comando que consolida o envio para um servidor
 
 git git pull (servidor) (branch): comando para receber as atualizações de um servidor local ou remoto.
 
+git branch (nome): comando utilizado para criar uma nova branch.
+
+git checkout (nome): comando utilizado para mudar de branch. O comando realiza checkout na branch em que vc está e move o header para a branch desejada.
+
+git merge (branch): Comando para unificar o código entre duas branchs.
